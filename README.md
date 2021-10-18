@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
  ⚡ Fun fact **I always laugh a lot** :smile:
 
-[![Esra's readme](https://github-readme-streak-stats.herokuapp.com/?user=esramazan&theme=tokyonight)](https://github-readme-streak-stats.herokuapp.com/?user=esramazan)
+<!--[![Esra's readme](https://github-readme-streak-stats.herokuapp.com/?user=esramazan&theme=tokyonight)](https://github-readme-streak-stats.herokuapp.com/?user=esramazan)-->
 
 <h3 align="center">Skills:</h3>
 <p align="center">
@@ -48,5 +48,5 @@ Here are some ideas to get you started:
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esramazan&layout=compact&theme=tokyonight)](https://github.com/esramazan/github-readme-stats)
-[![Esra's GitHub stats](https://github-readme-stats.vercel.app/api?username=esramazan&show_icons=true&theme=tokyonight&hide=prs,contribs&custom_title=GitHub%20Stats)](https://github.com/esramazan/github-readme-stats) 
+[![Esra's GitHub stats](https://github-readme-stats.vercel.app/api?username=esramazan&show_icons=true&theme=tokyonight&hide=prs&custom_title=GitHub%20Stats)](https://github.com/esramazan/github-readme-stats) 
 
