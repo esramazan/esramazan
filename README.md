@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/esramazan" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.youtube.com/channel/UCFiRsl6nphq2nBEvPyipQNw" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://www.hackerrank.com/esra_ramazan19" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+<a href="mailto:esra.ramazan19@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esramazan&layout=compact&theme=tokyonight)](https://github.com/esramazan/github-readme-stats)
