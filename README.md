@@ -45,7 +45,9 @@ Here are some ideas to get you started:
 [![Esra's GitHub stats](https://github-readme-stats.vercel.app/api?username=esramazan&show_icons=true&theme=tokyonight&hide=prs&custom_title=GitHub%20Stats)](https://github.com/esramazan/github-readme-stats) 
 
 <!-- 💬 Ask me about **C#, SQL, Reporting**  
- ⚡ Fun fact **I always laugh a lot** :smile:  -->
-
+ ⚡ Fun fact **I always laugh a lot** :smile:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=esramazan&color=brightgreen) 
+-->
+
+
