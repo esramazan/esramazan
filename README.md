@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Esra</h1>
-<h3 align="center">software developer from Turkey</h3>
+<h3 align="center">software developer in Turkey</h3>
 
 <!--[![Esra's readme](https://github-readme-streak-stats.herokuapp.com/?user=esramazan&theme=tokyonight)](https://github-readme-streak-stats.herokuapp.com/?user=esramazan)-->
 
@@ -46,8 +46,6 @@ Here are some ideas to get you started:
 
 <!-- 💬 Ask me about **C#, SQL, Reporting**  
  ⚡ Fun fact **I always laugh a lot** :smile:
-
-![Profile Views](https://komarev.com/ghpvc/?username=esramazan&color=brightgreen) 
 -->
-
+![Profile Views](https://komarev.com/ghpvc/?username=esramazan&color=brightgreen) 
 
